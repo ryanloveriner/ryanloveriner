@@ -1,7 +1,7 @@
-## Hello! 👋 My name is Ryan.
-## I work for a specialty coffee roasting company, developing data visualizations and statistical models
-## using R, SQL, and Excel to improve our roasting quality and consistency and to drive key business
-## insights. I'm also developing skills in Tableau and Power BI for the continued improvement our program.
+## Hello! 👋 My name is Ryan, and I'm a junior Data Analyst.
+## I work for a specialty coffee roasting company, developing data visualizations and statistical models using R, SQL, and Excel to improve our roasting quality and consistency and to drive key business insights.
+## I'm also developing skills in Tableau and Power BI in order to continue improving our program, which sources, stores, roasts, packages, and sells over 50,000 pounds of specialty coffee a year.
+## You can find me on Linkedin at www.linkedin.com/in/ryan-love-riner
 
 <!--
 **ryanloveriner/ryanloveriner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
