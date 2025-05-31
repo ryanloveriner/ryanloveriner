@@ -1,6 +1,5 @@
-## Hello! 👋 My name is Ryan Love-Riner, and I'm a junior Data Analyst.
-## I work for a specialty coffee roasting company, developing data visualizations and statistical models using R, SQL, and Excel to improve our roasting quality and consistency and to drive key business insights.
-## I'm also developing skills in Tableau and Power BI in order to continue improving our program, which sources, stores, roasts, packages, and sells over 50,000 pounds of specialty coffee a year.
+## Hello! 👋 My name is Ryan Love-Riner, and I'm a Data Analyst.
+## I'm currently working for a specialty coffee roasting company, developing data visualizations using Python and Tableau and statistical models using R. I also report KPIs and communicate quantitative insight to our key stakeholders, all while managing our ever-growing mountain of data (we roast over 60,000 pounds of coffee a year!) with SQL and Kaggle. Combining these analytical skills with a passion for coffee and customer-focused process/product improvement, I work to ensure my company is always at the cutting edge of coffee roasting science.
 ## You can find me on Linkedin at www.linkedin.com/in/ryan-love-riner
 
 <!--
